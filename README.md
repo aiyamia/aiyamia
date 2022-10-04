@@ -1,6 +1,6 @@
 ### CAUTION
 
-All releases of my repos have bugs, please don't really use them. Thanks for comming~
+All releases of my repos have bugs, please don't use them in production environment. Thanks for comming~
 <!--
 **aiyamia/aiyamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
